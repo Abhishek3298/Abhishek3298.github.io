@@ -1,1 +1,9 @@
-
+name: exmple-enviroment 
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy 
+  - bqplot
+  - ipywidgets
+  - traitlets
